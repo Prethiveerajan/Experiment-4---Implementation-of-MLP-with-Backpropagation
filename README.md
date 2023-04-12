@@ -117,11 +117,7 @@ Normalize our dataset.
 
 8. Finally, call the functions confusion_matrix(), and the classification_report() in order to evaluate the performance of our classifier.
 
-## PROGRAM 
-```
-Developed by : KRISHNA PRAKAASSH D M
-Reg. No: 212221230052
-```
+## PROGRAM :
 
 ## Importing Libraries
 
